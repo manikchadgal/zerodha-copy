@@ -49,6 +49,7 @@
     color: #424242;
     margin-top: 15px;
     margin-bottom: 15px;
+    font-weight: 400;
 }
 
 .signup{
@@ -72,4 +73,5 @@
     font-family: "Inter", serif;
     padding: 0px;
     margin: 0px;
+    font-weight: 600;
 }
